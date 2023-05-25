@@ -1,6 +1,6 @@
 ## Hiya!
 
-Hello! I'm just some bad programmer which likes to make things. I program ( Horribly ) in Bash, C, C++, VBScript, and Lua. Please don't ask me about how to do things that include the Linux shell. Just search it up on google.
+Hello! I'm just some bad programmer and pixel artist which likes to make things. I program **Horribly** in Bash, C, C++, VBScript, and Lua.
 
 ***
 
